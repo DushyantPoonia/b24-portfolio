@@ -1,0 +1,8 @@
+WSL2 + Ubuntu: Ubuntu 24.04.1 LTS
+VS Code: 1.135.0
+Git: 2.50.0.windows.2
+GitHub CLI: 2.100.0
+Python: 3.12.13
+Docker: 28.4.0
+AWS CLI: 2.36.45
+AWS Region: ap-south-1
